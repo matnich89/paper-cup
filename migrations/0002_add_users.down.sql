@@ -1,0 +1,1 @@
+DELETE FROM users WHERE id IN ('365a4305-968c-4a42-8fe8-cae2d41d5ebd', 'a85f35f4-92e7-4a6e-9bdf-081f6eaa52e9')
