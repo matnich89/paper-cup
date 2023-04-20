@@ -45,10 +45,3 @@
 - Its worth mentioning that the database tests would not run on windows
 it seems there is some weird issue with invoking Docker Desktop...so Macs and Linux only please :) 
 
-- There is a debate in the Go community about GORM vs Raw SQL.... I am currently in the second camp ( as you can probably tell) but if
-  you were expecting GORM / ORM that is something for us to discuss (I'm not dogmatic about it)
-
-- Without sounding too cheesy... I probably got too into this and put way more effort in than was probably expected...
-  I generally wanted to show how I would approach this in a work setting as much as I could in the time I had.
-
-
